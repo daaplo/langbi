@@ -1,3 +1,0 @@
-# langbi项目描述
-
-本项目来自同学，为中国大学生计算机设计大赛上传项目，langbi-frontend为前端，langbi-backend为后端，在使用前需要先开启redis数据库（redis已一并上传）
